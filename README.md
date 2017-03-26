@@ -11,6 +11,7 @@ When the function is ready, it is plotter on the next screen, denoted by the blu
 
 The graph can also be zoomed into, or zoomed out of to view more detailed values or to see a greater area of the graph.
 
+Demo video : https://www.youtube.com/watch?v=YN2x8QCyRuU
 
 ### How to Run
 
