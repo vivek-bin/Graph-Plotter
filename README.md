@@ -1,3 +1,5 @@
+![Tan](screenshots/s3.jpg?raw=true "Tan")
+
 # Graph-Plotter
 
 
@@ -58,3 +60,13 @@ Databus:
 Built on the ARM Cortex M4 microcontroller, TM4C123GH6PM, with the Texas Instruments Tiva C series TM4C123G Launch Pad. 
 
 Keil uVision4 used as the IDE.
+
+![](screenshots/s1.jpg?raw=true)
+
+![](screenshots/s2.jpg?raw=true)
+
+![](screenshots/s3.jpg?raw=true)
+
+![](screenshots/s4.jpg?raw=true)
+
+![](screenshots/s5.jpg?raw=true)
